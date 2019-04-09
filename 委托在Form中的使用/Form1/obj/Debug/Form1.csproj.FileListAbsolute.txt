@@ -1,0 +1,13 @@
+E:\asp.net\Form1\Form1\bin\Debug\Form1.exe.config
+E:\asp.net\Form1\Form1\bin\Debug\Form1.exe
+E:\asp.net\Form1\Form1\bin\Debug\Form1.pdb
+E:\asp.net\Form1\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+E:\asp.net\Form1\Form1\obj\Debug\Form1.Form1.resources
+E:\asp.net\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+E:\asp.net\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
+E:\asp.net\Form1\Form1\obj\Debug\Form1.exe
+E:\asp.net\Form1\Form1\obj\Debug\Form1.pdb
+E:\asp.net\Form1\Form1\obj\Debug\Form1.Form2.resources
+E:\asp.net\委托在Form中的使用\Form1\bin\Debug\Form1.exe.config
+E:\asp.net\委托在Form中的使用\Form1\obj\Debug\Form1.exe
+E:\asp.net\委托在Form中的使用\Form1\obj\Debug\Form1.pdb
